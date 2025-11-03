@@ -1,6 +1,6 @@
 {
 	"name": "url-extras",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Browser-compatible implementations of some of Node.js' URL utilities",
 	"license": "MIT",
 	"repository": "sindresorhus/url-extras",
